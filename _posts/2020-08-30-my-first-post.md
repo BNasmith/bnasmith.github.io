@@ -10,3 +10,5 @@ Test out math rendering. The imaginary number is $$i = \sqrt{-1}$$ and this is a
 $$
 x^2 + 1 = 0.
 $$
+
+There are $$196560$$ short vectors in the Leech lattice $\Lambda_{24}$. 
