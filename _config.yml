@@ -62,3 +62,13 @@ kramdown:
 # Add a copyright. A copyright symbol and year will be added automatically
 # copyright: Company Name, Inc.
 copyright: Benjamin Nasmith
+
+# Disqus Comments
+disqus:
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  shortname: 
+#   http-bnasmith-github-io
+
+# Google Analytics
+google_analytics: UA-104891400-2
