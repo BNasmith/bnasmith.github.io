@@ -54,3 +54,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Setup for KaTeX math rendering
+markdown: kramdown
+kramdown:
+    math_engine: katex
