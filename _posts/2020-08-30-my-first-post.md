@@ -11,4 +11,4 @@ $$
 x^2 + 1 = 0.
 $$
 
-There are $$196560$$ short vectors in the Leech lattice $\Lambda_{24}$. 
+There are $$196560$$ short vectors in the Leech lattice $$\Lambda_{24}$$. 

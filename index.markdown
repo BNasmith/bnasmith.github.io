@@ -31,9 +31,3 @@ Since graduating I’ve spent some time gathering archival writings on this them
 Along the way I’ve co-edited two books with Paul K. Moser, [*God of Holy Love: Essays of Peter Taylor Forsyth*](https://wipfandstock.com/god-of-holy-love.html) and [*God in Experience: Essays of Hugh Ross Mackintosh*](https://wipfandstock.com/god-in-experience.html). I hope that these books will put some of the writing that I’ve found most significant in the hands of those who might benefit from it.
 
 If you read anything here that sparks your interested I’d be glad to hear from you.
-
-Here is some LaTeX code. The imaginary number is $$i = \sqrt{-1}$$ and it is the solution to the equation,
-
-$$
-x^2 + 1 = 0.
-$$
