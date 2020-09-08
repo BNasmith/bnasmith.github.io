@@ -23,7 +23,7 @@ Some of my specific interests include the quaternions, octonions, exceptional Jo
 
 ## Teaching
 
-I've spent most of my career has been spent as a student or as a teacher. I have been a physics student and I've taught university physics. I've been a military student pilot and I've been a military flight instructor. I've been in the seminary classroom and I've taught in church settings. I'm committed to life-long learning and enjoy opportunities to share what I know or what I'm learning. 
+I've spent most of my career as a student or as a teacher. I have been a physics student and I've taught university physics. I've been a military student pilot and I've been a military flight instructor. I've been in the seminary classroom and I've taught in church settings. I'm committed to life-long learning and enjoy opportunities to share what I know or what I'm learning. 
 
 In the university context, I've taught physics of the space environment, classical mechanics, basic optics, basic algebra, modern physics, and quantum mechanics. I plan to share some of my notes on these topics here from time to time. I also plan to share some thoughts on teaching in general, technology in learning, and the audio of any future theology talks I have a chance to give.  
 
