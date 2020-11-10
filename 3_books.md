@@ -14,6 +14,8 @@ Under construction
 
 3. MA Thesis: Cognitive Idolatry and the Trinity in Paul K. Moser's Philosophy
 
+<iframe src="https://archive.org/embed/cognitive_idolatry_and_the_trinity" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ## Physics
 
 4. MSc Thesis: 
