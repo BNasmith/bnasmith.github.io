@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Psalms and Christian Experience"
+title:  "The Psalms and the Present Moment"
 date:   2020-05-24  
 categories: bible, theology, sermons
 ---

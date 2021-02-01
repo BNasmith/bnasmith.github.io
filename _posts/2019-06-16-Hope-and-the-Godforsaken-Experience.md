@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hope and God's Love"
+title:  "Hope and the Godforsaken Experience"
 date:   2019-06-16  
 categories: bible, theology, sermons
 ---

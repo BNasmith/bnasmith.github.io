@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Peter and Cornelius"
+title:  "Hospitality, Prejudice, and the Acts of the Spirit"
 date:   2021-01-31
-categories: bible, theology
+categories: bible, theology, sermons
 ---
 
 

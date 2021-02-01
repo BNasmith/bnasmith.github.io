@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Knowing Christ"
+title:  "Paul, Kierkegaard, and Contemporaneity with Christ"
 date:   2019-04-14  
 categories: bible, theology, sermons
 ---
