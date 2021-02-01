@@ -13,7 +13,7 @@ I consider myself a Christian, with some qualifications and caveats, and am inte
 
 Along the way I've become interested in a style of theology that draws upon our experiences as foundational. I wrote my masters thesis on an experiential approach to faith and theology contained in the philosophy of Paul K. Moser. Since then, I've worked with Moser to gather archival writings on the theme of experience in theology, many of which are available at my other website: [*Archive for Experiential Theology*](https://experientialtheology.hcommons.org/). We also co-edited two books along these lines, [*God of Holy Love: Essays of Peter Taylor Forsyth*](https://wipfandstock.com/god-of-holy-love.html) and [*God in Experience: Essays of Hugh Ross Mackintosh*](https://wipfandstock.com/god-in-experience.html). These books represent some of the best instincts in theology that I've come across so far and I hope they do some small measure of good in the world. 
 
-On this site I share some of my own writing on theological topics and also include links to my new theology podcast project, [The Undisputedly Pauline Podcast](https://anchor.fm/ben-nasmith)", where I share some of my sermons and conversations I've had with friends.   
+On this site I share some of my own writing on theological topics and also include links to my new theology podcast project, [The Undisputedly Pauline Podcast](https://anchor.fm/ben-nasmith), where I share some of my sermons and conversations I've had with friends. I also co-host [The Experiential Theology Podcast](https://anchor.fm/experientialtheology) with Juan Torres.  
 
 ## Mathematics
 
