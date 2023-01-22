@@ -11,9 +11,14 @@ Welcome to my website! I'm a student of theology and mathematics with versatile 
 
 I consider myself a Christian, with some qualifications and caveats, and am interested in Christian theology at a personal level. A couple years ago I completed the Master of Arts in Theological Studies program at Briercrest Seminary after several years of part-time study. That seminary experience helped me to read more widely and explore the foundations of my own faith and perspective, beyond the bounds of my own church upbringing.
 
-Along the way I've become interested in a style of theology that draws upon our experiences as foundational. I wrote my masters thesis on an experiential approach to faith and theology contained in the philosophy of Paul K. Moser. Since then, I've worked with Moser to gather archival writings on the theme of experience in theology, many of which are available at my other website: [*Archive for Experiential Theology*](https://experientialtheology.hcommons.org/). We also co-edited two books along these lines, [*God of Holy Love: Essays of Peter Taylor Forsyth*](https://wipfandstock.com/god-of-holy-love.html) and [*God in Experience: Essays of Hugh Ross Mackintosh*](https://wipfandstock.com/god-in-experience.html). These books represent some of the best instincts in theology that I've come across so far and I hope they do some small measure of good in the world. 
+Along the way I've become interested in a style of theology that draws upon our experiences as foundational. 
+I wrote a [masters thesis](https://archive.org/embed/cognitive_idolatry_and_the_trinity) on an experiential approach to faith and theology contained in the philosophy of Paul K. Moser. 
+Since then, I've worked with Moser to gather archival writings on the theme of experience in theology, many of which are available at my other website: [*Archive for Experiential Theology*](https://experientialtheology.hcommons.org/). 
+We also co-edited three books along these lines, [*Atonement and Experience: Writings of James Denney*](https://wipfandstock.com/9781666731354/atonement-and-experience/), [*God of Holy Love: Essays of Peter Taylor Forsyth*](https://wipfandstock.com/god-of-holy-love.html), and [*God in Experience: Essays of Hugh Ross Mackintosh*](https://wipfandstock.com/god-in-experience.html). 
+These books represent some of the best instincts in theology that I've come across so far and I hope they do some small measure of good in the world. 
 
-On this site I share some of my own writing on theological topics and also include links to my new theology podcast project, [The Undisputedly Pauline Podcast](https://anchor.fm/ben-nasmith), where I share some of my sermons and conversations I've had with friends. I also co-host [The Experiential Theology Podcast](https://anchor.fm/experientialtheology) with Juan Torres.  
+
+On this site I share some of my own writing on theological topics. I have an old podcast, [The Undisputedly Pauline Podcast](https://anchor.fm/ben-nasmith), where I share some of my sermons and conversations I've had with friends. I also co-host [The Experiential Theology Podcast](https://anchor.fm/experientialtheology) with Juan Torres.  
 
 ## Mathematics
 
@@ -27,6 +32,6 @@ I've spent most of my career as a student or as a teacher. I have been a physics
 
 In the university context, I've taught physics of the space environment, classical mechanics, basic optics, basic algebra, modern physics, and quantum mechanics. I plan to share some of my notes on these topics here from time to time. I also plan to share some thoughts on teaching in general, technology in learning, and the audio of any future theology talks I have a chance to give.  
 
-If you read anything here that sparks your interested I’d be glad to hear from you.
+If you read anything here that sparks your interested I’d be glad to hear from you. I'm available at BNasmith@pm.me.
 
 
