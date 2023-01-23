@@ -32,6 +32,6 @@ I've spent most of my career as a student or as a teacher. I have been a physics
 
 In the university context, I've taught physics of the space environment, classical mechanics, basic optics, basic algebra, modern physics, and quantum mechanics. I plan to share some of my notes on these topics here from time to time. I also plan to share some thoughts on teaching in general, technology in learning, and the audio of any future theology talks I have a chance to give.  
 
-If you read anything here that sparks your interested I’d be glad to hear from you. I'm available at BNasmith@pm.me.
+If you read anything here that sparks your interested I’d be glad to hear from you.
 
 
